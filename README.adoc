@@ -5,6 +5,8 @@ No more email from NoIP telling you that your host are going to be removed !
 
 == Requirements
 To use this script, you have to install NodeJS and CasperJS.
+The command `casperjs` must be system-wide.
+(If you want to change that, you'll have to edit noip_auto_renew.sh)
 
 == Setup
 Before using the script, you have to rename or copy config.sample.js to config.js, and fill the username and password fields with your NoIP credentials.
