@@ -13,5 +13,6 @@ Before using the script, you have to rename or copy config.sample.js to config.j
 
 == Usage
 `$ /path/to/the/script/noip_auto_renew.sh`
+
 The script can be runned manually, but you will probably want to create a CRON for it.
 
